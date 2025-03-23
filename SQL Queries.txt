@@ -1,0 +1,6 @@
+answers.sql
+ salesDB
+
+CREATE DATABASE salesDB;
+
+DROP DATABASE demo;
